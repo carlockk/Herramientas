@@ -1,0 +1,149 @@
+[05-Aug-2024 00:27:22 America/Santiago] PHP Warning:  getimagesize(/tmp/phpCcXUsQ): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 195
+[05-Aug-2024 00:32:47 America/Santiago] PHP Warning:  mime_content_type(/tmp/php4vevWQ): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 185
+[05-Aug-2024 00:43:27 America/Santiago] PHP Warning:  mime_content_type(/tmp/phpcjwgyq): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 205
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrconst.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 32
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrconst.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 32
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrconfig.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 33
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 33
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrtools.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 34
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrtools.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 34
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrspec.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 35
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrspec.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 35
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrimage.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 36
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrimage.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 36
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrvect.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 37
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrvect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 37
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrinput.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 38
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrinput.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 38
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrbitstream.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 39
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrbitstream.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 39
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrsplit.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 40
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrsplit.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 40
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrrscode.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 41
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrrscode.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 41
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrmask.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 42
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrmask.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 42
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrencode.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 43
+[05-Aug-2024 17:46:24 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrencode.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 43
+[05-Aug-2024 17:46:24 America/Santiago] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home2/coffeewa/public_html/buscador/generate_qr.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/coffeewa/public_html/buscador/generate_qr.php on line 10
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrconst.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 32
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrconst.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 32
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrconfig.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 33
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 33
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrtools.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 34
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrtools.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 34
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrspec.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 35
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrspec.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 35
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrimage.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 36
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrimage.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 36
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrvect.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 37
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrvect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 37
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrinput.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 38
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrinput.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 38
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrbitstream.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 39
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrbitstream.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 39
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrsplit.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 40
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrsplit.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 40
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrrscode.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 41
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrrscode.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 41
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrmask.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 42
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrmask.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 42
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(/home2/coffeewa/public_html/buscador/phpqrcode/qrencode.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 43
+[05-Aug-2024 17:47:02 America/Santiago] PHP Warning:  include(): Failed opening '/home2/coffeewa/public_html/buscador/phpqrcode/qrencode.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/phpqrcode/qrlib.php on line 43
+[05-Aug-2024 17:47:02 America/Santiago] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home2/coffeewa/public_html/buscador/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home2/coffeewa/public_html/buscador/index.php on line 57
+[05-Aug-2024 22:42:12 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 15
+[05-Aug-2024 22:42:12 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 15
+[05-Aug-2024 22:42:12 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 15
+[05-Aug-2024 23:07:01 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:01 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:01 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:02 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:02 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:02 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:08 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:08 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:07:08 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:46 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:46 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:46 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:50 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:50 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:50 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:08:52 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 2
+[05-Aug-2024 23:10:37 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 6
+[05-Aug-2024 23:10:37 America/Santiago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home2/coffeewa/public_html/buscador/index.php on line 6
+[05-Aug-2024 23:10:37 America/Santiago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/coffeewa/public_html/buscador/index.php on line 6
+[09-Aug-2024 16:11:32 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:11:32 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:11:36 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:11:36 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:11:42 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:11:42 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:11:57 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:11:57 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:06 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:06 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:42 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:42 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:50 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:50 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:56 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:56 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:12:59 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:13:03 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:13:03 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:15:39 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:15:39 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:15:45 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:15:45 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:19:18 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 209
+[09-Aug-2024 16:19:18 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 212
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 209
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 212
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 209
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 212
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 209
+[09-Aug-2024 16:19:21 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 212
+[09-Aug-2024 16:19:25 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 209
+[09-Aug-2024 16:19:25 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 212
+[09-Aug-2024 16:20:17 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:17 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:20 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:20 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:20 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:20 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:21 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:21 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:26 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:26 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:31 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:31 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:20:35 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 205
+[09-Aug-2024 16:20:35 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 208
+[09-Aug-2024 16:23:27 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:23:27 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[09-Aug-2024 16:23:43 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[09-Aug-2024 16:23:43 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
+[11-Aug-2024 16:48:03 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 221
+[11-Aug-2024 16:48:03 America/Santiago] PHP Warning:  main(): Couldn't fetch mysqli in /home2/coffeewa/public_html/buscador/index.php on line 224
