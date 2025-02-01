@@ -1,5 +1,5 @@
 
-# Sistema de inventario
+# Sistema de buscador de herramientas
 
 Es un sistema creado en PHP, con validaciones en Javascript y base de datos MySql
 
